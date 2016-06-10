@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>后台管理</title>
+<link rel="stylesheet" type="text/css" href="../view/admin/styles/styles.css" />
+</head>
+<body>
+<div id="header_1">
+	<div id="logo">
+		<img src="../view/admin/images/logo.jpg"/>
+	</div>
+	<div id="Nav">
+		<ul>
+			<li><a href="" target="frame_left">系统设置</a></li>
+            <li><a href="" target="frame_left">系统设置</a></li>
+            <li><a href="" target="frame_left">系统设置</a></li>
+            <li><a href="" target="frame_left">系统设置</a></li>
+		</ul>
+	</div>
+</div>
+<div id="header_2">
+	<div class="header_2_menu header_2_line_bg">
+		欢迎[<span style="color:#FF9900;"><!-- {$user_nickname} --></span>]来到<strong><!-- {$webconfig} --></strong>后台管理中心
+	</div>
+	<div class="header_2_menu header_2_line_bg">
+		<a href="change_password.php" target="frame_right">修改密码</a>
+	</div>
+	<div class="header_2_menu">
+		<a href="clear_caches.php" target="frame_right">清除缓存</a>
+	</div>
+	<div id="logoff">
+		<a href="logoff.php" target="_parent">退出系统</a>
+	</div>
+</div>
+</body>
+</html>

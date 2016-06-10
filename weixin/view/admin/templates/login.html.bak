@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>后台管理</title>
+<link rel="stylesheet" href="../view/admin/styles/login.css" />
+<script type="text/javascript" src="../view/admin/scripts/jquery.js"></script>
+</head>
+<body>
+<div id="login_main">
+	<div id="login_left"><img src="../view/admin/images/login_logo.jpg" /></div>
+	<div id="login_right">
+	<form action="./login.php" method="post" onsubmit="return check_form();">
+		<table width="200" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+			<td width="50" height="35">用户名</td>
+			<td colspan="2"><input type="text" name="strName" id="user_name" class="inputs" style="width:130px;"></td>
+		  </tr>
+		  <tr>
+			<td height="35">密&nbsp;&nbsp;&nbsp;&nbsp;码</td>
+			<td colspan="2"><input type="password" name="strPassword" id="user_password" class="inputs"style="width:130px;"></td>
+		  </tr>
+		  <tr>
+			<td height="35">验证码</td>
+			<td width="71"><input type="text" name="check_pic" id="auth_code" size="4" class="inputs">			</td>
+		    <td width="79">
+				<img id="auth_code_img" style="cursor:pointer;" />
+			</td>
+		  </tr>
+		  <tr>
+			<td height="35">&nbsp;</td>
+			<td colspan="2"><input type="image" src="../view/admin/images/login_bottom.jpg" /></td>
+		  </tr>
+		</table>
+	</form>
+	</div>
+</div>
+</body>
+</html>
+<script>
+function check_form()
+{
+	// 验证用户名
+	var user_name=$('#user_name').val();
+	if(user_name.length <5)
+	{
+		alert('用户名至少要五个字符');
+		$('#user_name').focus();
+		return false;
+		
+	}
+	// 验证密码
+	var user_password=$('#user_password').val();
+	if(user_password.length < 6)
+	{
+		alert('密码至少要6个字符');
+		$('#user_password').focus();
+		return false;	
+	}
+	//	验证码的检查
+	var yzm=$('#auth_code').val();
+	if(yzm.length < 4)
+	{
+		alert('验证码至少要4个字符');
+		$('#yzm').focus();
+		return false;	
+	}
+	
+	return true;
+}
+
+// 验证码的更换
+function auth_code_img()
+{
+	$('#auth_code_img').attr('src','./auth_image.php?='+Math.random());
+}
+$(function(){
+	var win_height=$(window).height();
+	$('#login_main').css('margin-top',(win_height-$('#login_main').outerHeight(true))/2);
+	
+	// 验证码的更换
+	$('#auth_code_img').click(function(){
+		auth_code_img();
+	});
+	auth_code_img();
+});
+
+</script>

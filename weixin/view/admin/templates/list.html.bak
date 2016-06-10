@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<link rel="stylesheet" href="../style/styles.css" />
+</head>
+
+<body>
+<div id="main_right">
+	<div id="r_title">
+		<div id="r_title_content">
+			文章管理 &gt; 用户列表
+		</div>
+	</div>
+	<div class="line_white"></div>
+	<div id="r_menu">
+		<ul>
+			<li><a href="<!-- {$page_name} -->?a=add">增加用户</a></li>
+		</ul>
+	</div>
+	<div id="r_list">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+		  	<td height="30">标签1</td>
+			<td>标签2</td>
+			<td>标签3</td>
+		  </tr>
+		</table>
+	</div>
+</div>
+</body>
+</html>

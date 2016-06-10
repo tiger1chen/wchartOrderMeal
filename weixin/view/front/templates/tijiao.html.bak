@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<title></title>
+<meta content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width" name="viewport">
+<meta content="initial-scale=1.0,user-scalable=no,maximum-scale=1" media="(device-height: 568px)" name="viewport">
+<!-- styles -->
+<link href="./view/front/styles/bootstrap.css" rel="stylesheet">
+<link rel="stylesheet" href="./view/front/styles/font-awesome.css">
+<link href="./view/front/styles/main.css" rel="stylesheet">
+<script src="./view/front/styles/jquery-1.js" type="text/javascript"></script>
+</head>
+
+<body id="manager" style="background:#ececec">
+<div class="wrapper">
+	<div class="container-fluid " style="height:40px;border-bottom:1px solid #939393;text-align:center">
+		<div class="navbar">
+				
+					<a class="pull-left addBack" href="javascript:history.back();">
+						返回
+					</a>
+					<div class="pull-left navTit1"> 
+						<h4 style="line-height:10px">确认订单</h4>
+					</div>
+					
+			
+
+		</div>
+	</div>
+	<div class="row-fluid lig-gray">
+		<div class=" container-fluid bankBorder ">
+			<input name="carcount" id="Warning" value="4" type="hidden">
+
+						<?php foreach($data as $k=>$v) { if($v['num']!=0){?>
+						<div class="span11 cf-t ml15 ">
+				<div class="span12" style="padding-bottom:10px">
+					<div class="span7 ff-pic">
+						<h5 class="Tname">菜品：<small><?php echo $v['name'];?></small></h5>
+						<h5 class="Tname">单价：<strong class="price">￥<?php echo $v['price'];?></strong></h5>
+
+					</div>
+					<div class="span4 pull-right" style="margin-left:15px;">
+						<h5 class="Tname"></h5>
+						<span class="ldd pull-right" style="margin-top:13%;width:140px">
+							<span class="cNum">数量：</span>						
+							 <input value='<?php echo $v["num"];?>' size="2" class="addtext1" maxlength="3" datatype="Number" msg="必须为数字" id="f<?php echo $k;?>" readonly="readonly" type="text">
+						</span>
+					
+					</div>
+				</div>
+			</div>
+				<?php }} ?>
+						<!-- <div class="span11 cf-t ml15 ">
+				<div class="span12" style="padding-bottom:10px">
+					<div class="span7 ff-pic">
+						<h5 class="Tname">菜品：<small>西红柿炒鸡蛋</small></h5>
+						<h5 class="Tname">单价：<strong class="price">￥198.00</strong></h5>
+					
+					</div>
+					<div class="span4 pull-right" style="margin-left:15px;">
+						<h5 class="Tname"></h5>
+						<span class="ldd pull-right" style="margin-top:13%;width:150px">
+							<span class="cNum">数量：</span>						
+							 <button type=button class='lgplus1 gray' onclick="chgNum(2,'del')">   -   </button> 
+							 <input type=text value='1'  size='2' class="addtext1" maxlength='3' dataType='Number' msg='必须为数字' id="f2">
+							 <button type=button class='lgminus1 gray'  onclick="chgNum(2,'add')" >   +   </button>
+						</span>
+					
+					</div>
+				</div>
+			</div> -->
+		</div>
+	</div>
+		<div class="row-fluid lig-gray">
+		<div class=" container-fluid bankBorder ">
+			<ul class="chat">
+				<li>配送费：&nbsp; <strong class="dispatchingPrice">0</strong><small>元</small></li>
+				<li>最低起送价&nbsp; <strong>8.00</strong><small>元</small></li>
+				<li>合&nbsp;&nbsp;&nbsp;计：&nbsp; <strong class="totalPrice">46</strong><small>元</small></li>
+			</ul>
+		</div>
+	</div>
+	<input id="minxprice" value="8.00" type="hidden">
+	<div class="row-fluid lig-gray">
+		<div class=" container-fluid bankBorder " style="padding:10px 0">
+			<h4 class="bill">已选<small class="listNum">4</small>道菜</h4>	
+			<h4 class="bill">总价<small class="same">46</small>元</h4>
+			<button class="btn btn-alert pull-right" id="sub" style="background-color:#fe8f0c;border-radius:0px;color:#fff" href="./lastsub.php?wid=".$wid>去结算</button>
+		</div>
+	</div>
+	</div>
+<script>
+var Warning = $('#Warning').val();
+$(document).ready(function(){
+	if(Warning==0){
+		setTimeout(function(){
+			window.location.href = "index.php?act=module&name=SingleMeal&do=index&from_user=oeY-2t7NoSyJNovnCKbPzFPUEAz0&wid=92";
+		},2000);
+	}
+})
+
+/**动态换算总价  */
+var price1 =  parseInt($('.dispatchingPrice').html());
+function getCount(){
+	var count = 0;
+	var total=0;
+	var listNum = $('.cf-t').length;
+	$(".cf-t").each(function(){
+		var price = $(this).children('.span12').find(".price").html().substr(1,6);	
+	    var num = parseInt($(this).find(".addtext1").val()); //如果有数量加入
+		var dispatchingPrice =parseInt($('.dispatchingPrice').html());
+		var minxprice = $('#minxprice').val();
+		count +=price*num; 
+		//alert(count)
+		if(count>=minxprice){
+			$('.dispatchingPrice').html(0);
+
+			//$('#sub').removeAttr('disabled').css('background','#fe8f0c')
+		}else{
+			$('.dispatchingPrice').html(price1);
+			//alert('对不起您的订单不够达到起送标准！');
+			//$('#sub').attr('disabled','disabled').css('background','#333');	
+		}	
+		total = count>=minxprice?count:count+price1;
+		
+	});
+	
+	$(".totalPrice").html(total);
+	$('.same').html(total);
+	$('.listNum').html(listNum);
+}
+	//结算
+	$('#sub').click(function(){
+		var url = $('#sub').attr('href');
+		window.location.href=url
+
+	});
+	$(function(){
+		getCount()
+		$('.goBcak').on('click',function(){
+			$('body,html').animate({scrollTop:0},200)
+		})
+	})
+	
+
+	
+</script>
+
+
+</body></html>

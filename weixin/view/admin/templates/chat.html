@@ -1,0 +1,91 @@
+<html>
+<head>        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> </head>
+<script type="text/javascript" src="../view/admin/scripts/jquery.js"></script>
+<body>
+<style type="text/css">
+#main{
+	width:300px;
+	height:350px;
+	margin-left:450px;
+	border:1px solid red;
+	color:red;
+	overflow-y:auto;
+}
+#order_time{
+	border:1px solid gray;
+	color :gray;
+	text-align:center;
+	height:20px;
+	width:300px;
+}
+#infoAll{
+	float:left;
+	color:black;
+}
+
+.user{
+	border:1px solid black;
+	color:black;
+	float:left;
+	widht:300px;
+	height:20px;
+}
+#arrive_time{
+	border:1px solid black;
+	color:black;
+	text-align:right;
+	widht:300px;
+	height:20px;
+}
+#menu{
+	border:1px solid green;
+	width:300px;
+	color:green;
+}
+
+</style>
+
+<div id="infoAll"><h1><center>详细信息展示</center></h1></id></div>
+<div id="main">
+<h1><center>实时信息接收中心</center></h1>
+</div>
+<script type="text/javascript">
+var backing = {
+url:'./chatCon.php',
+dataType:'json',
+success:function(rep){
+  $('<div id=\"order_time\">'+rep.order_time+'</div>').appendTo($('#main'));
+  $('<div class="user" id=\''+rep.id+'\' >'+rep.wid+'</div>').appendTo($('#main'));
+  $('<div id="arrive_time">预计到达时间：'+rep.arrive_time+'</div>').appendTo($('#main'));
+  $('<div id="menu">'+rep.menu+'备注：'+rep.remark+'<br/>总共花费：'+rep.money+'</div>').appendTo($('#main'));
+  window.setTimeout(function(){$.ajax(backing)},1);
+ }
+};
+$.ajax(backing);
+
+</script>
+<script type="text/javascript">
+var i =1;
+$("div").delegate('.user','click',function(){
+	var id = this.id;
+	$.get("./getInfo.php",
+	{id:id},
+	function(data){
+		var html = '';
+		var dat = eval('('+data+')');
+		console.log(dat);
+		html = '<div id="'+id+'ok"><span>用户名：</span>'+dat[0].wid+'<br/><span>预定次数：</span>'+dat[0].order_time+'<br/><span>失约次数：</span>'+dat[0].fail_time+'<br/><span>收货人真实姓名：</span>'+dat[0].customer+'<br/><span>电话号码</span>'+dat[0].tel+'<br/>订单号码：'+dat[0].order_sn+'<br/><input type="button" id="success" value="关闭"/></div>';
+	$("#infoAll").append(html);  
+	}
+	);
+
+});
+</script>
+<script type="text/javascript">
+$("#infoAll").delegate("#success","click",function(){
+	var id = $(this).parent("div").attr("id");
+	$("#"+id).remove();
+});
+</script>
+</body>
+</html>

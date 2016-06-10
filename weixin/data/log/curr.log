@@ -1,0 +1,6084 @@
+useweixin
+set names utf8
+insert into wx_goods(0,1,2)values('1,wei,100')
+useweixin
+set names utf8
+insert into wx_goods(0,1,2)values('1,wei,100')
+use weixin
+set names utf8
+insert into wx_goods(0,1,2) values('1','wei','100')
+use weixin
+set names utf8
+insert into wx_goods(id,name,price) values('1','wei','100')
+use weixin
+set names utf8
+insert into wx_goods(id,name,price) values('1','wei','100')
+use weixin
+set names utf8
+where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+update wx_goods set id=1,name=weixing,price=100where id=1
+use weixin
+set names utf8
+update wx_goods set id=1,name=weixing,price=100 where id=1
+use weixin
+set names utf8
+update wx_goods set id='1',name='we',price='100' where id=1
+use weixin
+set names utf8
+update wx_goods set id='1',name='we',price='100' where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+insert into wx_goods(v_name,price) values('dd','eee')
+use weixin
+set names utf8
+insert into wx_goods(v_name,price) values('we','rrrrr')
+use weixin
+set names utf8
+insert into wx_goods(v_name,price) values('eee','22.00')
+use weixin
+set names utf8
+insert into wx_goods(name,price) values('鱼香肉丝','8.00')
+use weixin
+set names utf8
+select * from  where fid=0
+use weixin
+set names utf8
+select * from  where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+insert into wx_menu(name) values('盖浇饭')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+insert into wx_menu(name) values('盖浇面')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+insert into wx_menu(name) values('主食')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('1','蛋炒饭')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('1','盖浇饭')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0 and name!=null
+use weixin
+set names utf8
+select * from wx_menu where fid=0 and name!=null
+use weixin
+set names utf8
+select * from wx_menu where fid=0 and name!=''
+use weixin
+set names utf8
+select * from wx_menu where fid=0 and name!=' '
+use weixin
+set names utf8
+select * from wx_menu where fid=0 and name!=' '
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('0','特价菜')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('6','鱼香肉丝')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=5
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=5
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=4
+delete from wx_menu where id=4
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=2
+delete from wx_menu where id=2
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=1
+delete from wx_menu where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=6
+delete from wx_menu where id=6
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=3
+delete from wx_menu where id=3
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('0','盖浇面')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('8','鱼香肉丝')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=8
+delete from wx_menu where id=8
+use weixin
+use weixin
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('0','盖浇饭')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=10
+delete from wx_menu where id=10
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('0','盖浇饭')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('11','鱼香肉丝')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('0','特价菜')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=12
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=13
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=13
+slect * from wx_menu where fid=13
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=12
+slect * from wx_menu where fid=12
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=12
+slect * from wx_menu where fid=12
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=13
+slect * from wx_menu where fid=13
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=12
+slect * from wx_menu where fid=12
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=13
+slect * from wx_menu where fid=13
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=13
+slect * from wx_menu where fid=13
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=13
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=12
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=12
+slect * from wx_menu where fid=12
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=13
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=12
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=13
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+slect * from wx_menu where fid=12
+use weixin
+set names utf8
+slect * from wx_menu where fid=11
+use weixin
+set names utf8
+slect * from wx_menu where fid=13
+use weixin
+set names utf8
+select * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=12
+use weixin
+set names utf8
+select * from wx_menu where fid=12
+delete from wx_menu where id=12
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('11','鱼香肉丝')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=13
+delete from wx_menu where id=13
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('11','蛋炒饭')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('0','特价菜')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('16','鱼香肉丝')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=11
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=15
+delete from wx_menu where id=15
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('11','木耳炒肉')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName=admin
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName=admin
+use weixin
+set names utf8
+select * from hwx_user where strName=admin
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='44444'
+use weixin
+set names utf8
+select * from hwx_user where strName='33333'
+use weixin
+set names utf8
+select * from hwx_user where strName='445434'
+use weixin
+set names utf8
+select * from hwx_user where strName='eeeee'
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='wwwww'
+use weixin
+set names utf8
+select * from hwx_user where strName='wwwww'
+use weixin
+set names utf8
+select * from hwx_user where strName='wwwww'
+use weixin
+set names utf8
+select * from hwx_user where strName='wwwww'
+use weixin
+set names utf8
+select * from hwx_user where strName='wwwww'
+use weixin
+set names utf8
+select * from hwx_user where strName='33333'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='eeeee'
+use weixin
+set names utf8
+select * from hwx_user where strName='eeeee'
+use weixin
+set names utf8
+select * from hwx_user where strName='eeeee'
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='w3333333'
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='aaaaa'
+use weixin
+set names utf8
+select * from hwx_user where strName='aaaaa'
+use weixin
+set names utf8
+select * from hwx_user where strName='aaaaaa'
+use weixin
+set names utf8
+select * from hwx_user where strName='aaaaaa'
+use weixin
+set names utf8
+select * from hwx_user where strName='aiiiii'
+use weixin
+set names utf8
+select * from hwx_user where strName='rrrrrr'
+use weixin
+set names utf8
+select * from hwx_user where strName='rrrrrr'
+use weixin
+set names utf8
+select * from hwx_user where strName='rrrrrr'
+use weixin
+set names utf8
+select * from hwx_user where strName='rrrrrr'
+use weixin
+set names utf8
+select * from hwx_user where strName='aaaaa'
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='eeeee'
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from 
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from hwx_user where strName='admin'
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_goods where id=
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_goods where id=
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('11','木耳炒蛋')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_goods(name,price) values('木耳炒蛋','9.00')
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('0','盖浇面')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('20','酸辣土豆丝')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+insert into wx_menu(fid,name) values('20','孜然土豆丝')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+insert into wx_goods(name,price) values('酸辣土豆丝','7.00')
+use weixin
+set names utf8
+insert into wx_goods(name,price) values('孜然土豆丝','8.00')
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+select * from wx_menu
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=16) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=11) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select a.id,a.name,a.price from wx_goods as a left join (select * from wx_menu where fid=20) as b on b.name=a.name where   b.name=a.name 
+use weixin
+set names utf8
+select * from wx_goods where id=5
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=5
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=4
+use weixin
+set names utf8
+select * from wx_goods where id=5
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+insert into wx_menu(menu,price,customer,tel,arrive_time,remark,order_time) values('酸辣土豆丝,孜然土豆丝,木耳炒蛋','0','陈日威','18393357070','17:50','好喜好','1409567659')
+use weixin
+set names utf8
+insert into wx_menu(menu,price,customer,tel,arrive_time,remark,order_time) values('酸辣土豆丝,孜然土豆丝,木耳炒蛋','0','陈日威','18393357070','17:50','好喜好','1409567661')
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods
+use weixin
+set names utf8
+select * from wx_menu where fid=0
+use weixin
+set names utf8
+select * from wx_goods where id=1
+use weixin
+set names utf8
+select * from wx_goods where id=2
+use weixin
+set names utf8
+select * from wx_goods where id=3
+use weixin
+set names utf8
+insert into wx_menu(menu,price,customer,tel,arrive_time,remark,order_time) values('we,鱼香肉丝,木耳炒蛋','0','chen ri wei','18393357070','18:20','hao','1409569879')
+use weixin
+set names utf8
+insert into wx_menu(menu,price,customer,tel,arrive_time,remark,order_time) values('we,鱼香肉丝,木耳炒蛋','0','chen ri wei','18393357070','18:20','hao','1409569886')
+use weixin
+set names utf8
+insert into wx_menu(menu,price,customer,tel,arrive_time,remark,order_time) values('we,鱼香肉丝,木耳炒蛋','0','chen ri wei','18393357070','18:20','hao','1409569988')
+use weixin
+set names utf8
+insert into wx_menu(menu,price,customer,tel,arrive_time,remark,order_time) values('we,鱼香肉丝,木耳炒蛋','0','qqqqqqqqqqq','qqqqqqqqq','qqqqqqqq','qqqqqqqqqq','1409569997')
+use weixin
+set names utf8
+insert into wx_menu(menu,price,customer,tel,arrive_time,remark,order_time) values('we,鱼香肉丝,木耳炒蛋','0','qqqqqqqqqqq','qqqqqqqqq','qqqqqqqq','qqqqqqqqqq','1409569999')
+use weixin
+set names utf8
+insert into wx_menu(menu,price,customer,tel,arrive_time,remark,order_time) values('we,鱼香肉丝,木耳炒蛋','225','qqqqqqqqq','qqqqq','qwwww','wwwww','1409570735')
+use weixin
+set names utf8
+insert into wx_menu(menu,price,customer,tel,arrive_time,remark,order_time) values('we,鱼香肉丝,木耳炒蛋','225','qqqqqqqqq','qqqqq','qwwww','wwwww','1409570755')
+use weixin
+set names utf8
+insert into wx_menu(menu,price,customer,tel,arrive_time,remark,order_time) values('we,鱼香肉丝,木耳炒蛋','225','qqqqqqqqq','qqqqq','qwwww','wwwww','1409570756')
+use weixin
+set names utf8
+insert into wx_menu(menu,price,customer,tel,arrive_time,remark,order_time) values('we,鱼香肉丝,木耳炒蛋','225','qqqqqqqqq','qqqqq','qwwww','wwwww','1409570874')
+use weixin
+set names utf8
+insert into wx_message(menu,price,customer,tel,arrive_time,remark,order_time) values('we,鱼香肉丝,木耳炒蛋','225','qqqqqqqqq','qqqqq','qwwww','wwwww','1409571215')
+use weixin
+set names utf8
+insert into wx_message(menu,price,customer,tel,arrive_time,remark,order_time) values('we,鱼香肉丝,木耳炒蛋','225','qqqqqqqqq','qqqqq','qwwww','wwwww','1409571243')
+use weixin
+set names utf8
+insert into wx_message(menu,price,customer,tel,arrive_time,remark,order_time) values('we,鱼香肉丝,木耳炒蛋','225','qqqqqqqqq','qqqqq','qwwww','wwwww','1409571304')

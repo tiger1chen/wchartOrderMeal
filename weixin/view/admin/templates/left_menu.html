@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>订餐系统后台</title>
+<link rel="stylesheet" type="text/css" href="../view/admin/styles/styles.css" />
+<script type="text/javascript" src="../view/admin/scripts/jquery.js"></script>
+</head>
+<body>
+<div id="left_menu">
+	<div id="left_menu_title"></div>
+	<div id="left_menu_main">
+		<ul>
+		
+			<li><a href="./cateAdd.php" target="frame_right">栏目分类</a></li>
+            <li><a href="./goodsEdit.php" target="frame_right">菜名添加</a></li>
+			<li><a href="./chat.php" target="frame_right">实时通讯</a></li>
+			<li><a href="./getAll.php" target="frame_right">历史记录</a></li>
+		</ul>
+	</div>
+</div>
+</body>
+</html>
+<script>
+$(function(){
+	var win_height=$(window).height();
+	$('#left_menu').css({'height':win_height});
+});
+</script>

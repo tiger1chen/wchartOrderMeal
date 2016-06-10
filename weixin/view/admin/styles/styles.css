@@ -1,0 +1,64 @@
+/* CSS Document */
+/* 公共样式 */
+*{margin:0px; padding:0px;font-size:12px; color:#333333; font-family:Arial, Helvetica, sans-serif;}
+body{background-color:#F1F1F1;}
+a{text-decoration:none; color:#333333;}
+ul{list-style-type:none;}
+div{overflow:hidden; margin:0 auto;}
+img{border:0px;}
+
+/* 头部样式 */
+.F.L{float:left !important;}
+.F.R{float:right !important;}
+.pointer{cursor:pointer  !important;}
+.line_white{width:auto; height:1px; background-color:#FFFFFF;}
+.inputs{width:auto; height:14px; border:1px solid #BEBEBE; padding:5px; float:left; background-image:url(../images/r_add_inputs_bg.jpg);}
+.a_click{cursor:pointer;}
+
+
+/* 头部样式 */
+#header_1{width:auto; height:67px; background-image:url(../images/header_1_bg.jpg);}
+	#logo{width:auto; height:67px; float:left;}
+	#Nav{width:auto; height:29px; padding-top:35px; float:left;}
+	#Nav li{width:auto; height:29px; float:left; margin-left:5px; display:inline;}
+	#Nav li a{display:block; width:auto; height:28px; float:left; padding:0px 25px; line-height:28px; border:1px solid #DADADA; border-bottom:0px;}
+	#Nav li a:hover{background-image:url(../images/Nva_a_hover_bg.jpg); color:#FFFFFF; border:1px solid #25619A; border-bottom:0px;}
+#header_2{width:auto; height:26px; background-image:url(../images/header_2_bg.jpg); border-bottom:1px solid #d6d6d6;}
+	.header_2_menu{width:auto; height:26px; line-height:26px; float:left; padding:0px 20px;}
+	.header_2_line_bg{background-image:url(../images/header_2_line_bg_03.jpg); background-position:right center; background-repeat:no-repeat;}
+	#logoff{width:auto; height:20px; background-color:#417EB7; margin:3px; float:right; display:inline;}
+	#logoff a{display:block; color:#FFFFFF; line-height:20px;  padding:0px 15px;}
+	
+/* 左边样式 */
+#left_menu{width:200px; height:auto; background-image:url(../images/left_menu_bg.jpg);}
+	#left_menu_title{width:200px; height:35px; background-image:url(../images/left_menu_title_bg_03.jpg); background-repeat:no-repeat;margin-top:25px;}
+	#left_menu_main{width:200px; height:auto;}
+	#left_menu_main a{display:block; width:194px; height:30px;color:#FFFFFF; line-height:30px; border-bottom:1px solid #0F65B2;border-top:1px solid #488BCB; text-indent:36px; background-image:url(../images/left_menu_main_bg.jpg); background-position:left center; background-repeat:no-repeat;}
+	#left_menu_main a:hover{font-weight:bold;}
+
+/* 右边样式 */
+#main_right{width:98%; height:auto; margin-top:18px;}
+	#r_title{width:auto; height:31px;  border:1px solid #D6D6D6; background-image:url(../images/r_title_bg.jpg);}
+		#r_title_content{width:auto; height:31px; background-image:url(../images/r_title_icon.jpg); background-repeat:no-repeat; color:#000000; line-height:31px; padding-left:35px; font-weight:bold;}
+	#r_menu{width:auto; height:29px; margin-top:18px;}
+		#r_menu li{width:auto; height:29px; float:left; background-image:url(../images/r_menu_li_bg.jpg); line-height:29px; border:1px solid #D6D6D6;}
+		#r_menu li a{display:block; width:auto; height:28px; background-image:url(../images/r_menu_a_icon.jpg); padding:0px 25px 0px 30px; color:#FFFFFF; font-weight:bold; background-repeat:no-repeat; float:left;}
+		#r_list{width:auto; height:auto;}
+		#r_list table{border-top:1px solid #D6D6D6;border-left:1px solid #D6D6D6;}
+		#r_list table td{border-bottom:1px solid #D6D6D6;border-right:1px solid #D6D6D6; padding-left:8px;}
+		
+/* 系统消息 */
+#sys_message{width:500px; height:auto; background-color:#417EB7; border:1px solid #275F92; padding:8px 10px;}
+	#sys_message_title{width:auto; height:35px; line-height:35px; font-size:14px; font-weight:bold; color:#FFFFFF; border-bottom:1px dashed #FFFFFF;}
+	#sys_message_content{height:auto; line-height:28px; color:#FFFFFF; margin-top:10px;}
+	#sys_message_back{line-height:30px; color:#FFFFFF;}
+	#sys_message_back span{color:#FFFFFF;}
+	#sys_message_back a{color:#FFFFFF; text-decoration:underline;}
+
+/* 分页样式 */
+#pages{width:auto; height:35px; display:inline; float:right; padding-right:30px; margin-top:10px;}
+	#pages a{display:block; height:30px; line-height:30px; float:left; border:1px solid #dcdcdc; background-color:#427FB8; padding:0px 10px; color:#FFFFFF;}
+	 .page_c{font-size:16px; font-weight:bold; font-stretch:expanded;}
+	 
+/* 缓存文件样式 */
+#clear_cache{width:550px; height:250px; margin-top:10px;}
